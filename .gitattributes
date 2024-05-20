@@ -1,0 +1,2 @@
+assets/ex_game.mp4 filter=lfs diff=lfs merge=lfs -text
+assets/stockfish_16.1 filter=lfs diff=lfs merge=lfs -text
