@@ -1,0 +1,10 @@
+CairoSVG==2.7.1
+chess==1.10.0
+darknet==0.3
+mediapipe==0.10.14
+more_itertools==10.2.0
+numpy==1.26.4
+opencv_python==4.9.0.80
+opencv_contrib_python==4.9.0.80
+Pillow==10.3.0
+PyQt6==6.7.0
