@@ -1,0 +1,64 @@
+
+ mean_average_precision (mAP@0.50) = 0.981151 
+
+ mean_average_precision (mAP@0.50) = 0.975403 
+
+ mean_average_precision (mAP@0.50) = 0.998360 
+
+ mean_average_precision (mAP@0.50) = 0.999360 
+
+ mean_average_precision (mAP@0.50) = 0.999328 
+
+ mean_average_precision (mAP@0.50) = 0.999442 
+
+ mean_average_precision (mAP@0.50) = 0.999341 
+
+ mean_average_precision (mAP@0.50) = 0.999285 
+
+ mean_average_precision (mAP@0.50) = 0.999314 
+
+ mean_average_precision (mAP@0.50) = 0.999523 
+
+ mean_average_precision (mAP@0.50) = 0.999443 
+
+ mean_average_precision (mAP@0.50) = 0.999494 
+
+ mean_average_precision (mAP@0.50) = 0.999550 
+
+ mean_average_precision (mAP@0.50) = 0.999494 
+
+ mean_average_precision (mAP@0.50) = 0.999565 
+
+ mean_average_precision (mAP@0.50) = 0.999527 
+
+ mean_average_precision (mAP@0.50) = 0.999585 
+
+ mean_average_precision (mAP@0.50) = 0.999514 
+
+ mean_average_precision (mAP@0.50) = 0.999414 
+
+ mean_average_precision (mAP@0.50) = 0.999590 
+
+ mean_average_precision (mAP@0.50) = 0.999568 
+
+ mean_average_precision (mAP@0.50) = 0.999554 
+
+ mean_average_precision (mAP@0.50) = 0.999451 
+
+ mean_average_precision (mAP@0.50) = 0.999567 
+
+ mean_average_precision (mAP@0.50) = 0.999272 
+
+ mean_average_precision (mAP@0.50) = 0.999506 
+
+ mean_average_precision (mAP@0.50) = 0.999467 
+
+ mean_average_precision (mAP@0.50) = 0.999364 
+
+ mean_average_precision (mAP@0.50) = 0.999283 
+
+ mean_average_precision (mAP@0.50) = 0.999371 
+
+ mean_average_precision (mAP@0.50) = 0.999486 
+
+ mean_average_precision (mAP@0.50) = 0.999414 
