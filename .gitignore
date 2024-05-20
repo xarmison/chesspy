@@ -1,0 +1,10 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python module files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore .idea directory
+.idea/
